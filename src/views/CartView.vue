@@ -1,21 +1,12 @@
 <template>
-
-  <div class="home">
-    <HeaderView> </HeaderView>
-    这是首页
-  </div>
-
+  <div class="home">这是购物车</div>
   <TabbarViewVue />
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
-//引入组件
-import HeaderView from "@/components/home/HeaderView.vue";
 
 export default defineComponent({
-  //注册组件
-  components:{HeaderView},
   setup() {
     return {};
   },
