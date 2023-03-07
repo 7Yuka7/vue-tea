@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "swiper": "^9.1.0",
     "vue": "^3.2.13",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.3",
+    "vue3-tabs": "^0.1.13-beta.3",
     "vuex": "^4.0.0"
   },
   "devDependencies": {

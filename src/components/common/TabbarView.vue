@@ -18,7 +18,7 @@ import { defineComponent,reactive,toRefs } from "vue";
 import { useRoute,useRouter } from "vue-router";
 
 //传入数据类型
-import {InitData} from '@/type/tabbar'
+import {InitData} from '@/type/common/tabbar'
 
 export default defineComponent({
   setup() {

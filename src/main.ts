@@ -10,6 +10,7 @@ import '@/assets/js/flexible'
 //字体图标css文件
 import '@/assets/css/iconfont.css'
 
+
 //全局组件引入
 import components from "./components";
 
